@@ -62,3 +62,28 @@ main {
     max-width: 700px;
     margin: 40px auto;          
 }
+
+/* ⭐ Contact form styling */
+form {
+    margin-top: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    background: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background: #333;
+}
