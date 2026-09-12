@@ -73,6 +73,15 @@ main {
     margin-top: 40px;
 }
 
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #555;
+    margin-top: 60px;
+    padding: 20px 0;
+}
+
+
 /* ⭐ Contact form styling */
 form {
     margin-top: 20px;
